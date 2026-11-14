@@ -17,9 +17,14 @@ This repository showcases my practical projects, demonstrating my ability to tra
 ## 📊 Projects
 
 ## 🍕 Pizza Sales Dashboard
+---<img width="3408" height="1477" alt="imagesdashboard" src="https://github.com/user-attachments/assets/e26a093c-8258-4612-a5d4-28aabf0bc592" />
 
-<img width="1394" height="523" alt="Sales Dashboard " src="https://github.com/user-attachments/assets/34ffa202-bcaa-462d-9d03-e8d531a90b38" />
 
+**Tools:** Microsoft Excel
+
+An interactive dashboard designed to analyze pizza sales performance and identify key business insights.
+
+---
 
 **KPI cards**
 
@@ -53,37 +58,6 @@ This repository showcases my practical projects, demonstrating my ability to tra
 - **The Classic Deluxe Pizza** is the best seller (459); **The Brie Carre Pizza** is the weakest (47).
 
 ---
-
-### 1. Pizza Sales Analysis Dashboard
----<img width="3408" height="1477" alt="imagesdashboard" src="https://github.com/user-attachments/assets/e26a093c-8258-4612-a5d4-28aabf0bc592" />
-
-**Tools:** Microsoft Excel
-
-An interactive dashboard designed to analyze pizza sales performance and identify key business insights.
-
-**Key Performance Indicators (KPIs):**
-
-- Total Sales: $8,436
-- Total Customers: 499
-- Total Orders: 499
-- Total Quantity Sold: 511
-
-**Analysis includes:**
-
-- Total Sales by Category
-- Total Monthly Sales
-- Total Product Sales
-- Orders by Weekday
-- Top 5 Purchasing Customers
-- Total Sales by Region
-
-**Excel Features:**
-
-- Data Analysis
-- PivotTables and Pivot Charts
-- Interactive Slicers
-- Timeline Filters
-- Dashboard Visualization
 
 ## 🎯 Career Objective
 
