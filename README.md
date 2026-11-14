@@ -63,12 +63,12 @@ An interactive dashboard designed to analyze pizza sales performance and identif
 
 My goal is to develop strong analytical and technical skills and transition into a Data Analyst role, using data to support business decisions and improve operational performance.
 
-## 📬 Contact
+## 👤 Author
 
-- **LinkedIn:** [https://www.linkedin.com/in/ahmed-abuzahra-a040a5104/]
-- **GitHub:** [https://github.com/ahmedabuzahra26]
-- **Location:** Dubai, United Arab Emirates
+**Ahmed Abuzahra**
 
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedabuzahra26-181717?style=flat&logo=github)](https://github.com/ahmedabuzahra26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Abuzahra-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
 
 
 *This portfolio is continuously updated as I complete new projects and develop my data analytics skills.*
