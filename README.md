@@ -16,6 +16,44 @@ This repository showcases my practical projects, demonstrating my ability to tra
 
 ## 📊 Projects
 
+## 🍕 Pizza Sales Dashboard
+
+<img width="1394" height="523" alt="Sales Dashboard " src="https://github.com/user-attachments/assets/34ffa202-bcaa-462d-9d03-e8d531a90b38" />
+
+
+**KPI cards**
+
+| Total Sales | Total Customers | Total Orders | Total Quantity |
+|:-----------:|:---------------:|:------------:|:--------------:|
+| **$8,436** | **499** | **499** | **511** |
+
+**Visuals**
+
+- 🍩 **Total Sales per Category** – donut chart
+- 🥧 **Sales Distribution by Pizza Size** – pie chart
+- 📈 **Monthly Order Volume Peaks** – line chart
+- 📊 **Weekly Order Distribution** – column chart
+- 🏆 **Top 5 Best-Selling Pizzas** – bar chart
+- 🔻 **Bottom 5 Least-Selling Pizzas** – bar chart
+
+**Interactivity**
+
+- Slicers for **pizza size** and **pizza category** 
+- **Timeline** slicer on order date (by quarter / month)
+- All slicers connected to every pivot table, so the whole dashboard filters together
+
+---
+
+## 💡 Key Insights
+
+- **Veggie** is the top category by sales share (**28.04%**), followed by Classic (26.96%) and Supreme (24.32%); **Chicken** is lowest (20.67%).
+- **Large (L)** pizzas lead with **47%** of sales; **XL** is only **3%**.
+- Order volume **peaks in June (54)** and August (51); **March is the lowest (30)**.
+- **Friday** is the busiest day (**91** orders); **Wednesday** is the quietest (48).
+- **The Classic Deluxe Pizza** is the best seller (459); **The Brie Carre Pizza** is the weakest (47).
+
+---
+
 ### 1. Pizza Sales Analysis Dashboard
 ---<img width="3408" height="1477" alt="imagesdashboard" src="https://github.com/user-attachments/assets/e26a093c-8258-4612-a5d4-28aabf0bc592" />
 
